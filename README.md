@@ -6,7 +6,7 @@ Gerenciador de favoritos ([Raindrop](https://raindrop.io/) clone).
 
 - Node.js 16+.
 - Criar o projeto usando [ReactJS](https://reactjs.org/).
-- Não utilizar nenhuma biblioteca adicional (ex: styled-components ou qualquer [css-in-js](https://cssinjs.org/)) além daquelas instaladas.
+- Não utilizar nenhuma biblioteca adicional (ex: ant-design, material-ui, styled-components ou qualquer [css-in-js](https://cssinjs.org/)) além daquelas instaladas.
 - Utilizar o "bom e velho" CSS e JS (mostre suas habilidades! Nada de coisas de terceiros 😉).
 
 ## Passos

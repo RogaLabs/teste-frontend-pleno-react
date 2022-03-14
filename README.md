@@ -22,11 +22,13 @@ Gerenciador de favoritos ([Raindrop](https://raindrop.io/) clone).
 - Utilize alguma metodologia de organização de CSS ([BEM](http://getbem.com/), [SMACSS](http://smacss.com/), [SuitCSS](http://suitcss.github.io/), etc — Seja consistente!);
 - Procure deixar os componentes ou funções reutilizáveis (evite acoplamento);
 - Procure detectar renderizações desnecessárias. Dica: utilize [useWhyDidYouUpdate](https://usehooks.com/useWhyDidYouUpdate/);
-- Se possível, faça [code-splitting](https://reactjs.org/docs/code-splitting.html).
-- Crie teste unitários.
+- Se possível, faça [code-splitting](https://reactjs.org/docs/code-splitting.html);
+- Crie teste unitários (ex.: [Jest](https://jestjs.io/pt-BR/));
+- Em caso de dúvida, verifique como funciona o [Raindrop](https://raindrop.io/).
 
 ## O que será avaliado
 
+- Aplicativo rodando 😝
 - Responsividade;
 - Fidelidade ao protótipo;
 - Familiaridade com CSS, JS e React;
